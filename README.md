@@ -1,4 +1,4 @@
 # BDEC2A
-Aula EC/BD 2A
-Gabriel Fernandes Leão
-RA: 1901099
+Aula EC/BD 2A <br/>
+Gabriel Fernandes Leão<br/>
+RA: 1901099<br/>
